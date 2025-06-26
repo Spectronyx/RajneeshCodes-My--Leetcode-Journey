@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
