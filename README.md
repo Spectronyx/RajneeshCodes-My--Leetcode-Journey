@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Spectronyx/RajneeshCodes/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Spectronyx/RajneeshCodes/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
