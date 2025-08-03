@@ -4,25 +4,26 @@ public:
         int n = arr.size();
         int res = 0;
 
-        vector<int> left(n);
-        vector<int> right(n);
-        
+        int left = 1;
+        int right = n-2;
 
-        left[0] = arr[0];
-        for(int i = 1;i < n;i++){
-            left[i] = max(left[i-1],arr[i]);
+        //for rightmax and leftmax;
+        int rmax = arr[right+1];
+        int lmax = arr[left-1];
+
+        while(left <= right){
+            if(rmax <= lmax){
+
+                res += max(0,rmax-arr[right]);
+                rmax = max(rmax,arr[right]);
+                right -= 1;
+
+            }else{
+                res += max(0,lmax-arr[left]);
+                lmax = max(lmax,arr[left]);
+                left += 1;
+           }
         }
-
-        right[n-1] = arr[n-1];
-        for(int i = n-2;i>=0;i--){
-            right[i] = max(right[i+1],arr[i]);
-        }
-
-        for(int i = 1;i < n-1;i++){
-            int minof2 = min(left[i],right[i]);
-            res += minof2-arr[i];
-        }
-
         return res;
     }
 };
