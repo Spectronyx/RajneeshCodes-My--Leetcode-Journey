@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Spectronyx/RajneeshCodes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spectronyx/RajneeshCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
