@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Spectronyx/RajneeshCodes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Spectronyx/RajneeshCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
