@@ -3,19 +3,16 @@ public:
     vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
         int n = nums.size();
         vector<int> res;
-        sort(nums.begin(),nums.end());
+        sort(begin(nums),end(nums));
+
+        //cumulative sum
+        for(int i =1;i < n;i++){
+            nums[i] += nums[i-1];
+        }
 
         for(int query: queries){
-            int sum = 0;
-            int count = 0;
-            for(int i = 0;i< n;i++){
-                if(sum + nums[i] > query){
-                    break;
-                }
-                sum+= nums[i];
-                count++;
-            }
-                res.push_back(count);
+            int count = upper_bound(begin(nums),end(nums),query) - nums.begin();
+            res.push_back(count);
         }
         return res;
     }
