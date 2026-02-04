@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/Spectronyx/RajneeshCodes/tree/master/0485-max-consecutive-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Spectronyx/RajneeshCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
