@@ -18,6 +18,7 @@ public:
 
         for(char ch: t){
             arr[ch -'a']--;
+            if(arr[ch-'a'] < 0) return false;
         }
 
         for(int num: arr){
