@@ -1,0 +1,30 @@
+class Solution {
+public:
+    typedef pair<char,int> P;
+    string frequencySort(string s) {
+        vector<P> vec(123);
+
+        for(char &ch: s){
+            int freq = vec[ch].second;
+            vec[ch] = {ch,freq+1};
+        }
+        
+        auto lambda = [&](P &p1,P &p2){
+            return p1.second > p2.second;
+        };
+
+        // sorting
+        sort(vec.begin(),vec.end(),lambda);
+        
+        string res = "";
+        for(int i = 0;i < 123;i++){
+            char ch = vec[i].first;
+            int freq = vec[i].second;
+            string temp = string(freq,ch);
+
+            res += temp;
+        }
+
+        return res;
+    }
+};
