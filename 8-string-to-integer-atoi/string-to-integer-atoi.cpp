@@ -1,8 +1,8 @@
 class Solution {
 public:
 
-    const int INT_MIN_VAL = -2147483648;
-    const int INT_MAX_VAL = 2147483647;
+    const int INT_MIN_VAL = INT_MIN;
+    const int INT_MAX_VAL = INT_MAX;
 
     // recruseive helper
     int helper(string &s, int i, long long num, int sign){
@@ -11,7 +11,7 @@ public:
             return (int)(sign*num);
         }
 
-        // update the name with current digit
+        // update the num with current digit
         num = num*10 +(s[i] - '0');
 
         // clamp if overflow
