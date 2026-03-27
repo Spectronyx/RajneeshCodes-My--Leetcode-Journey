@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Spectronyx/RajneeshCodes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Spectronyx/RajneeshCodes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Spectronyx/RajneeshCodes/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/Spectronyx/RajneeshCodes/tree/master/0115-distinct-subsequences) |
+| [0151-reverse-words-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/1250-longest-common-subsequence) |
