@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Spectronyx/RajneeshCodes/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Spectronyx/RajneeshCodes/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Spectronyx/RajneeshCodes/tree/master/0115-distinct-subsequences) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Spectronyx/RajneeshCodes/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Spectronyx/RajneeshCodes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0088-merge-sorted-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Spectronyx/RajneeshCodes/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/Spectronyx/RajneeshCodes/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0812-rotate-string) |
