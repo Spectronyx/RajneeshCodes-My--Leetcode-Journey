@@ -1,71 +1,42 @@
 class Solution {
 public:
     // string reverseWords(string s) {
-    //     int n = s.size();
+    //     stringstream ss(s);
+    //     string token = "";
+    //     string result = "";
 
-    //     vector<string> words;
-
-    //     string word = "";
-
-    //     //traverse the string character by character 
-    //     for(char ch: s){
-    //         if(ch != ' '){
-    //             word += ch;
-    //         }
-    //         else if(!word.empty()){
-    //             words.push_back(word);
-    //             word = "";
-    //         }
+    //     while (ss >> token){
+    //         result = token +" "+result;
     //     }
 
-    //     //push the last word
-    //     if(!word.empty()){
-    //         words.push_back(word);
-    //     }
-    //     reverse(words.begin(),words.end());
-
-    //     string ans = "";
-    //     for(int i =0;i < words.size();i++){
-    //         ans += words[i];
-
-    //         if(i < words.size()-1){
-    //             ans+=" ";
-    //         }
-    //     }
-    //     return ans;
+    //     return result.substr(0,s.size());
     // }
 
     string reverseWords(string s){
-        string result = "";
+        // story 
+        // 1. reverse the whole string
+        reverse(s.begin(),s.end());
 
-        //start searching from the end
-        int i = s.size()-1;
+        int i = 0;
+        // hero honge l,r jo poora reverse karenge
+        int l = 0,r = 0;
+        int n = s.length();
 
-        //traverse from right to left
-        while(i >= 0){
-            //skipping the current character and the spaces
-            while(i >= 0 && s[i] == ' '){
-                i--;
+        while(i < n){
+            while(i < n && s[i] != ' '){
+                s[r++] = s[i++];
             }
-            if(i < 0) break;
-            //marking the end
-            int end = i;
-            
-            //moving left until the space is found
-            while(i >= 0 && s[i] != ' '){
-                i--;
+            if(l < r){ // l ... r 
+                reverse(s.begin()+l,s.begin()+r);
+
+                s[r] = ' ';
+                r++;
+
+                l = r;
             }
-
-            //extracting the owlrd
-            string word = s.substr(i+1,end-i);
-
-            //add space before appeding the new word if reslt is not empty
-            if(!result.empty()){
-                result += " ";
-            }
-
-            result += word;
+            i++;
         }
-        return result;
+        s = s.substr(0,r-1);
+        return s;
     }
 };
