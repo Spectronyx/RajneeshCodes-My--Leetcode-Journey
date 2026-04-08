@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Spectronyx/RajneeshCodes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0234-palindrome-linked-list) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Spectronyx/RajneeshCodes/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
