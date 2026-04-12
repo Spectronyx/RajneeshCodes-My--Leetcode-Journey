@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
+| [1922-count-good-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Spectronyx/RajneeshCodes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/1922-count-good-numbers) |
 ## Merge Sort
 |  |
 | ------- |
