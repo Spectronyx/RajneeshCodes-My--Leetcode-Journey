@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/1922-count-good-numbers) |
 ## Two Pointers
