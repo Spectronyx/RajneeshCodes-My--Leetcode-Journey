@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Spectronyx/RajneeshCodes/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Spectronyx/RajneeshCodes/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spectronyx/RajneeshCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Spectronyx/RajneeshCodes/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0136-single-number) |
 ## Matrix
 |  |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Spectronyx/RajneeshCodes/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Spectronyx/RajneeshCodes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
