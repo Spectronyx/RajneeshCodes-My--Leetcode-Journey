@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Spectronyx/RajneeshCodes/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Spectronyx/RajneeshCodes/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Spectronyx/RajneeshCodes/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Spectronyx/RajneeshCodes/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Spectronyx/RajneeshCodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Spectronyx/RajneeshCodes/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Spectronyx/RajneeshCodes/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Spectronyx/RajneeshCodes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Spectronyx/RajneeshCodes/tree/master/0078-subsets) |
