@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Spectronyx/RajneeshCodes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Spectronyx/RajneeshCodes/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Spectronyx/RajneeshCodes/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Spectronyx/RajneeshCodes/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spectronyx/RajneeshCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Spectronyx/RajneeshCodes/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Spectronyx/RajneeshCodes/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
