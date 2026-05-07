@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int countSentence(string s){
+    int countSentence(string &s){
         int count = 0;
         bool inWord = false;
 
