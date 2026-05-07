@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Spectronyx/RajneeshCodes/tree/master/0485-max-consecutive-ones) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Spectronyx/RajneeshCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/1250-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Spectronyx/RajneeshCodes/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
 | ------- |
