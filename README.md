@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Spectronyx/RajneeshCodes/tree/master/2652-sum-multiples) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Spectronyx/RajneeshCodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
