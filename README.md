@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/1922-count-good-numbers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
