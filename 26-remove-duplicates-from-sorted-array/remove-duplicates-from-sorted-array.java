@@ -9,6 +9,7 @@ class Solution {
             // agar naya element mila toh
             if(nums[i] != nums[j]){
                 j++;
+                if(i != j)
                 nums[j] = nums[i];
             }
        }
