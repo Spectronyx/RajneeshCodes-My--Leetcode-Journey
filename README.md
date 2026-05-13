@@ -167,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Spectronyx/RajneeshCodes/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Spectronyx/RajneeshCodes/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Spectronyx/RajneeshCodes/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Spectronyx/RajneeshCodes/tree/master/0709-to-lower-case) |
 | [0812-rotate-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0812-rotate-string) |
@@ -289,5 +292,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Spectronyx/RajneeshCodes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
