@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Spectronyx/RajneeshCodes/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Spectronyx/RajneeshCodes/tree/master/1550-three-consecutive-odds) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Spectronyx/RajneeshCodes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Spectronyx/RajneeshCodes/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -165,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Spectronyx/RajneeshCodes/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
