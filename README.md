@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
+| [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [1550-three-consecutive-odds](https://github.com/Spectronyx/RajneeshCodes/tree/master/1550-three-consecutive-odds) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Spectronyx/RajneeshCodes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/Spectronyx/RajneeshCodes/tree/master/1672-richest-customer-wealth) |
@@ -299,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Spectronyx/RajneeshCodes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
