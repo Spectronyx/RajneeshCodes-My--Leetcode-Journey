@@ -36,23 +36,61 @@
 //     }
 // };
 
+// class Solution {
+// public:
+//     int n;
+//     bool dfs(vector<int> &arr,int i){
+//         if(i < 0 || i >= n || arr[i] < 0) return false;
+
+//         if(arr[i] == 0) return true;
+
+//         arr[i] *= -1;
+//         bool a = dfs(arr,i-arr[i]);
+//         bool b = dfs(arr,i+arr[i]);
+
+//         return a||b;
+//     }
+//     bool canReach(vector<int>& arr, int start) {
+//          n = arr.size();
+        
+//         return dfs(arr,start);
+//     }
+// };
+
+
 class Solution {
 public:
-    int n;
-    bool dfs(vector<int> &arr,int i){
-        if(i < 0 || i >= n || arr[i] < 0) return false;
-
-        if(arr[i] == 0) return true;
-
-        arr[i] *= -1;
-        bool a = dfs(arr,i-arr[i]);
-        bool b = dfs(arr,i+arr[i]);
-
-        return a||b;
-    }
     bool canReach(vector<int>& arr, int start) {
-         n = arr.size();
-        
-        return dfs(arr,start);
+        int n = arr.size();
+        vector<int> visited(n,0);
+        queue<int> q;
+
+        q.push(start);
+        visited[start] = -1;
+
+        while(!q.empty()){
+            int curr = q.front();
+            q.pop();
+
+            //check if we reached the Goal
+            if(arr[curr] == 0){
+                return true;
+            }
+
+            // go for the left check
+            int left = curr - arr[curr];
+            while(left >= 0 && !visited[left] ){
+                visited[left] = true;
+                q.push(left);
+            }
+
+            // go for the right check
+            int right = curr + arr[curr];
+            while(right < n && !visited[right]){
+                visited[right] = true;
+                q.push(right);
+            }
+        }
+        return false; // Kabhi 0 tak nahi pahuche
     }
 };
