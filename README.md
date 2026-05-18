@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
 | [1550-three-consecutive-odds](https://github.com/Spectronyx/RajneeshCodes/tree/master/1550-three-consecutive-odds) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Spectronyx/RajneeshCodes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/Spectronyx/RajneeshCodes/tree/master/1672-richest-customer-wealth) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
+| [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Spectronyx/RajneeshCodes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Spectronyx/RajneeshCodes/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
 ## Tree
 |  |
 | ------- |
