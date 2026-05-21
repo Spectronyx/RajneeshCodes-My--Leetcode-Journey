@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Spectronyx/RajneeshCodes/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/3024-type-of-triangle) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Spectronyx/RajneeshCodes/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Spectronyx/RajneeshCodes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2784-check-if-array-is-good](https://github.com/Spectronyx/RajneeshCodes/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union Find
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Spectronyx/RajneeshCodes/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Spectronyx/RajneeshCodes/tree/master/3019-number-of-changing-keys) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
@@ -333,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
