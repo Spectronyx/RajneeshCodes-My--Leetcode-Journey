@@ -2,22 +2,22 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.size();
-        int left = 0, right = 0;
+        vector<int> lastseen(256,-1);
+        int left = 0;
         int maxLen = 0;
 
-        unordered_set<char> charSet; 
+        for(int right = 0;right < n;right++){
+            char c = s[right];
 
-        while(right < n){
-            // if character dont exists
-            if(charSet.find(s[right]) == charSet.end()){
-                charSet.insert(s[right]);
-                maxLen = max(maxLen, right-left+1);
-                right++;
-            }else{ // if the character dont exist
-                charSet.erase(s[left]);
-                left++;
+            // Duplicate found in the window
+            if(lastseen[c] >= left){
+                left = lastseen[c]+1;
             }
+
+            lastseen[c] = right;
+            maxLen = max(maxLen,right-left+1);
         }
         return maxLen;
+
     }
 };
