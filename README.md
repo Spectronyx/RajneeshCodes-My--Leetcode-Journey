@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Spectronyx/RajneeshCodes/tree/master/0907-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/1250-longest-common-subsequence) |
+| [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Spectronyx/RajneeshCodes/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 ## Simulation
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/1250-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Spectronyx/RajneeshCodes/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Spectronyx/RajneeshCodes/tree/master/2942-find-words-containing-character) |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
