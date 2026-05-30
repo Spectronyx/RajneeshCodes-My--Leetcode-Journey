@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/3024-type-of-triangle) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Spectronyx/RajneeshCodes/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
+| [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
 ## Math
 |  |
 | ------- |
@@ -364,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
