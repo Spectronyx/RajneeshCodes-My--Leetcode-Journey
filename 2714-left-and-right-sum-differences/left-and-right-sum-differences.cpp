@@ -5,13 +5,16 @@ public:
         vector<int> rightSum(n,0);
         vector<int> leftSum(n,0);
         
-        
+        int rSum = nums[n-1];
         for(int i = n-2;i >= 0;i--){
-            rightSum[i] = rightSum[i+1]+nums[i+1];
+            rightSum[i] = rSum;
+            rSum += nums[i];
         }
 
+        int lSum = nums[0];
         for(int i = 1;i < n;i++){
-            leftSum[i] = nums[i-1]+leftSum[i-1];
+            leftSum[i] = lSum;
+            lSum += nums[i];
         }
         vector<int> ans;
         for(int i = 0;i < n;i++){
