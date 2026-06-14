@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Spectronyx/RajneeshCodes/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Spectronyx/RajneeshCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Spectronyx/RajneeshCodes/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Spectronyx/RajneeshCodes/tree/master/0907-sum-of-subarray-minimums) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
