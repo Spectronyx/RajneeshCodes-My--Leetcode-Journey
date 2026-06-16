@@ -374,16 +374,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Trie
 |  |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
