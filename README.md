@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Spectronyx/RajneeshCodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Spectronyx/RajneeshCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/2974-minimum-number-game) |
+| [3931-process-string-with-special-operations-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3931-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3931-process-string-with-special-operations-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3931-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
