@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spectronyx/RajneeshCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0128-longest-consecutive-sequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Spectronyx/RajneeshCodes/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Spectronyx/RajneeshCodes/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spectronyx/RajneeshCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Spectronyx/RajneeshCodes/tree/master/0152-maximum-product-subarray) |
