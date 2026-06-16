@@ -375,18 +375,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Trie
 |  |
@@ -410,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
