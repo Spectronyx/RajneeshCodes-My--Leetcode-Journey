@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Spectronyx/RajneeshCodes/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Spectronyx/RajneeshCodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/Spectronyx/RajneeshCodes/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/1922-count-good-numbers) |
