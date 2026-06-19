@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Spectronyx/RajneeshCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Spectronyx/RajneeshCodes/tree/master/0152-maximum-product-subarray) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Spectronyx/RajneeshCodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/Spectronyx/RajneeshCodes/tree/master/1672-richest-customer-wealth) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
