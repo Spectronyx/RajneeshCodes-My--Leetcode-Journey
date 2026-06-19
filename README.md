@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Spectronyx/RajneeshCodes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Spectronyx/RajneeshCodes/tree/master/0735-asteroid-collision) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Spectronyx/RajneeshCodes/tree/master/0907-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/1250-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Spectronyx/RajneeshCodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/Spectronyx/RajneeshCodes/tree/master/1672-richest-customer-wealth) |
 ## Linked List
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
