@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Spectronyx/RajneeshCodes/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Spectronyx/RajneeshCodes/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
+| [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
 | [1550-three-consecutive-odds](https://github.com/Spectronyx/RajneeshCodes/tree/master/1550-three-consecutive-odds) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/Spectronyx/RajneeshCodes/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
