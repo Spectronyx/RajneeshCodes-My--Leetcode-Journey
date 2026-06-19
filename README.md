@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Spectronyx/RajneeshCodes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Spectronyx/RajneeshCodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1833-find-the-highest-altitude](https://github.com/Spectronyx/RajneeshCodes/tree/master/1833-find-the-highest-altitude) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/Spectronyx/RajneeshCodes/tree/master/2126-destroying-asteroids) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Spectronyx/RajneeshCodes/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1833-find-the-highest-altitude](https://github.com/Spectronyx/RajneeshCodes/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
