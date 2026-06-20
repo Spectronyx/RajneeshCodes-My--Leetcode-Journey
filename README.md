@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Spectronyx/RajneeshCodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-find-the-highest-altitude](https://github.com/Spectronyx/RajneeshCodes/tree/master/1833-find-the-highest-altitude) |
+| [1968-maximum-building-height](https://github.com/Spectronyx/RajneeshCodes/tree/master/1968-maximum-building-height) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/Spectronyx/RajneeshCodes/tree/master/2126-destroying-asteroids) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/1922-count-good-numbers) |
+| [1968-maximum-building-height](https://github.com/Spectronyx/RajneeshCodes/tree/master/1968-maximum-building-height) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Spectronyx/RajneeshCodes/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/2769-find-the-maximum-achievable-number) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Spectronyx/RajneeshCodes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1968-maximum-building-height](https://github.com/Spectronyx/RajneeshCodes/tree/master/1968-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/Spectronyx/RajneeshCodes/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Spectronyx/RajneeshCodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Spectronyx/RajneeshCodes/tree/master/2784-check-if-array-is-good) |
