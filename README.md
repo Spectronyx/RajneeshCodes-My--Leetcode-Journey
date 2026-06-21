@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Spectronyx/RajneeshCodes/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Spectronyx/RajneeshCodes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Spectronyx/RajneeshCodes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Spectronyx/RajneeshCodes/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Spectronyx/RajneeshCodes/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Spectronyx/RajneeshCodes/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Spectronyx/RajneeshCodes/tree/master/0657-robot-return-to-origin) |
