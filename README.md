@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Spectronyx/RajneeshCodes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0260-single-number-iii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Spectronyx/RajneeshCodes/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
 |  |
@@ -466,4 +469,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
