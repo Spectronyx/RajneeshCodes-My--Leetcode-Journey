@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Tree
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
