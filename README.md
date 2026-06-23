@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Spectronyx/RajneeshCodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Spectronyx/RajneeshCodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Spectronyx/RajneeshCodes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Spectronyx/RajneeshCodes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Spectronyx/RajneeshCodes/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Spectronyx/RajneeshCodes/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Spectronyx/RajneeshCodes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Spectronyx/RajneeshCodes/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Spectronyx/RajneeshCodes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/Spectronyx/RajneeshCodes/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0643-maximum-average-subarray-i) |
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Spectronyx/RajneeshCodes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
