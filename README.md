@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Spectronyx/RajneeshCodes/tree/master/0735-asteroid-collision) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 | [0567-permutation-in-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0643-maximum-average-subarray-i) |
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
 |  |
