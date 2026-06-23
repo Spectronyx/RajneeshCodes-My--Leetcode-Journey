@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Spectronyx/RajneeshCodes/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Spectronyx/RajneeshCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0204-count-primes) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Spectronyx/RajneeshCodes/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Spectronyx/RajneeshCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Spectronyx/RajneeshCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
