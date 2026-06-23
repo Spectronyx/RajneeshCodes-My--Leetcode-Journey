@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Spectronyx/RajneeshCodes/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Spectronyx/RajneeshCodes/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Spectronyx/RajneeshCodes/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Spectronyx/RajneeshCodes/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
