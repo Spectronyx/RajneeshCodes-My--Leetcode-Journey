@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0014-longest-common-prefix) |
@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Spectronyx/RajneeshCodes/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0216-combination-sum-iii) |
@@ -90,8 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Spectronyx/RajneeshCodes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Spectronyx/RajneeshCodes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
@@ -114,8 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Spectronyx/RajneeshCodes/tree/master/0069-sqrtx) |
@@ -129,8 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Spectronyx/RajneeshCodes/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
@@ -156,8 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Spectronyx/RajneeshCodes/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -180,16 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Spectronyx/RajneeshCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Spectronyx/RajneeshCodes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/Spectronyx/RajneeshCodes/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Spectronyx/RajneeshCodes/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Spectronyx/RajneeshCodes/tree/master/0735-asteroid-collision) |
@@ -199,8 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3931-process-string-with-special-operations-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3939-process-string-with-special-operations-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Spectronyx/RajneeshCodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -226,12 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
@@ -249,15 +250,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/3024-type-of-triangle) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/Spectronyx/RajneeshCodes/tree/master/1297-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Spectronyx/RajneeshCodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/0085-maximal-rectangle) |
@@ -272,8 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Spectronyx/RajneeshCodes/tree/master/0907-sum-of-subarray-minimums) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Spectronyx/RajneeshCodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Spectronyx/RajneeshCodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/0085-maximal-rectangle) |
@@ -281,16 +282,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Spectronyx/RajneeshCodes/tree/master/0907-sum-of-subarray-minimums) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Spectronyx/RajneeshCodes/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0191-number-of-1-bits) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Spectronyx/RajneeshCodes/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Spectronyx/RajneeshCodes/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Spectronyx/RajneeshCodes/tree/master/0013-roman-to-integer) |
@@ -324,13 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3931-process-string-with-special-operations-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3939-process-string-with-special-operations-ii) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0812-rotate-string) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/Spectronyx/RajneeshCodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0136-single-number) |
@@ -341,19 +342,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Spectronyx/RajneeshCodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Spectronyx/RajneeshCodes/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/Spectronyx/RajneeshCodes/tree/master/1672-richest-customer-wealth) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Spectronyx/RajneeshCodes/tree/master/0025-reverse-nodes-in-k-group) |
@@ -366,8 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Spectronyx/RajneeshCodes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Spectronyx/RajneeshCodes/tree/master/0050-powx-n) |
@@ -377,17 +379,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Spectronyx/RajneeshCodes/tree/master/1922-count-good-numbers) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Spectronyx/RajneeshCodes/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Spectronyx/RajneeshCodes/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Spectronyx/RajneeshCodes/tree/master/0037-sudoku-solver) |
@@ -397,41 +399,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2974-minimum-number-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/2974-minimum-number-game) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0204-count-primes) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0204-count-primes) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Spectronyx/RajneeshCodes/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Spectronyx/RajneeshCodes/tree/master/0232-implement-queue-using-stacks) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Spectronyx/RajneeshCodes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/Spectronyx/RajneeshCodes/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Spectronyx/RajneeshCodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
@@ -439,12 +442,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Spectronyx/RajneeshCodes/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
@@ -453,8 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -462,14 +466,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 | [0567-permutation-in-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0567-permutation-in-string) |
@@ -477,37 +481,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Spectronyx/RajneeshCodes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Spectronyx/RajneeshCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Spectronyx/RajneeshCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
