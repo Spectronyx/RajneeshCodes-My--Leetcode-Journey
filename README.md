@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Spectronyx/RajneeshCodes/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Spectronyx/RajneeshCodes/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3161-block-placement-queries](https://github.com/Spectronyx/RajneeshCodes/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Spectronyx/RajneeshCodes/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Spectronyx/RajneeshCodes/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Spectronyx/RajneeshCodes/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Spectronyx/RajneeshCodes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/Spectronyx/RajneeshCodes/tree/master/1297-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
