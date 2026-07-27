@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Spectronyx/RajneeshCodes/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
+| [0459-repeated-substring-pattern](https://github.com/Spectronyx/RajneeshCodes/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0567-permutation-in-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Spectronyx/RajneeshCodes/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Spectronyx/RajneeshCodes/tree/master/0709-to-lower-case) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Spectronyx/RajneeshCodes/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0812-rotate-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
