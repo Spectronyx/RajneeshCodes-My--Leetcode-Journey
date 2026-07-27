@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Spectronyx/RajneeshCodes/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/Spectronyx/RajneeshCodes/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/Spectronyx/RajneeshCodes/tree/main/0476-number-complement/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
