@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Spectronyx/RajneeshCodes/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Spectronyx/RajneeshCodes/tree/master/1345-jump-game-iv) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Spectronyx/RajneeshCodes/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Spectronyx/RajneeshCodes/tree/master/0709-to-lower-case) |
 | [0812-rotate-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0812-rotate-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Spectronyx/RajneeshCodes/tree/master/1297-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -514,11 +516,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Spectronyx/RajneeshCodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1073-number-of-enclaves](https://github.com/Spectronyx/RajneeshCodes/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [2793-count-the-number-of-complete-components](https://github.com/Spectronyx/RajneeshCodes/tree/master/2793-count-the-number-of-complete-components) |
 ## Bucket Sort
 | Problem Name | Difficulty |
