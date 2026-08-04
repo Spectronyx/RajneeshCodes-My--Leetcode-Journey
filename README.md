@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Spectronyx/RajneeshCodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3731-find-missing-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Spectronyx/RajneeshCodes/tree/master/3024-type-of-triangle) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
