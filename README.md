@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Spectronyx/RajneeshCodes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Spectronyx/RajneeshCodes/tree/master/0231-power-of-two) |
+| [0504-base-7](https://github.com/Spectronyx/RajneeshCodes/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/Spectronyx/RajneeshCodes/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Spectronyx/RajneeshCodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Spectronyx/RajneeshCodes/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/Spectronyx/RajneeshCodes/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0504-base-7](https://github.com/Spectronyx/RajneeshCodes/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/Spectronyx/RajneeshCodes/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Spectronyx/RajneeshCodes/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Spectronyx/RajneeshCodes/tree/master/0709-to-lower-case) |
