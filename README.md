@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Spectronyx/RajneeshCodes/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Spectronyx/RajneeshCodes/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Spectronyx/RajneeshCodes/tree/master/0485-max-consecutive-ones) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Spectronyx/RajneeshCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Spectronyx/RajneeshCodes/tree/master/0496-next-greater-element-i) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Spectronyx/RajneeshCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Spectronyx/RajneeshCodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Spectronyx/RajneeshCodes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1297-maximum-number-of-balloons](https://github.com/Spectronyx/RajneeshCodes/tree/master/1297-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Spectronyx/RajneeshCodes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Spectronyx/RajneeshCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Spectronyx/RajneeshCodes/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Spectronyx/RajneeshCodes/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/Spectronyx/RajneeshCodes/tree/master/2974-minimum-number-game) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -546,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Spectronyx/RajneeshCodes/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Spectronyx/RajneeshCodes/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Spectronyx/RajneeshCodes-My--Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
